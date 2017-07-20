@@ -6,7 +6,7 @@ namespace BagOLoot.Tests
 {
     public class ChildRegisterShould
     {
-        private readonly ChildRegister _register;
+        private ChildRegister _register {get;}
 
         public ChildRegisterShould()
         {

@@ -14,6 +14,7 @@ namespace BagOLoot
             Console.WriteLine ("WELCOME TO THE BAG O' LOOT SYSTEM");
             Console.WriteLine ("*********************************");
             Console.WriteLine ("1. Add a child");
+            Console.WriteLine ("2. Assign toy to a child");
 			Console.Write ("> ");
 
 			// Read in the user's choice
